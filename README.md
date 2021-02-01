@@ -1,6 +1,15 @@
 # Latex-makro-keypad
 A makro keypad for Latex using a Teensy4.0
 
-I used SMK 2nd gen switches with MX mount. So the STL files are cherry mx compatible.
 
-For the shell M3 bolts where used that tap themself into the plastic.
+partslist:
+-teensy4.0 + micro usb cable
+-20 SMK 2nd gen Switches (can be replaced for any Mechanical switch with MX mount)
+-20 Diodes
+-4 M3x10 bolts 
+-4 rubber feet
+-some wire
+
+I used SMK 2nd gen switches with MX mount, so the STL files are cherry mx compatible.
+
+the M3 bolts will tap into the shel without any problem.

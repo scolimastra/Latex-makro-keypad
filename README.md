@@ -11,5 +11,5 @@ partslist:
 -some wire
 
 I used SMK 2nd gen switches with MX mount, so the STL files are cherry mx compatible.
-
-the M3 bolts will tap into the shel without any problem.
+Diodes were used to prevent Ghosting.
+The M3 bolts will self-tap into the shell. 
